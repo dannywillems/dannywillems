@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Apparently, I found something... 
+Apparently, I found something...
+
+More often on GitLab (https://gitlab.com/dannywillems). Trying to mirror my work here...
+Mostly around cryptography and Tezos these days.
+
 <!--
 **dannywillems/dannywillems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
