@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Apparently, I found something...
+Check https://dannywillems.github.io.
 
 More often on GitLab (https://gitlab.com/dannywillems). Trying to mirror my work here...
 Mostly around cryptography and Tezos these days.
