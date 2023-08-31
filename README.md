@@ -12,7 +12,7 @@ I am also a cryptography engineer at [O(1) Labs](https://o1labs.org/), a company
 Previously I was a cryptography engineer at [Nomadic Labs](https://nomadic-labs.com) in the [cryptography team](https://research-development.nomadic-labs.com/files/cryptography.html).
 I was also the first engineer at [B2C2](https://b2c2.com).
 
-During my study, I did an internship in the [Gallium team at INRIA](https://gallium.inria.fr/) for my master thesis titled "To a typed language for modular programming" which was consisting on unifying the core and modular language of OCaml.
+During my study, I did an internship in the [Gallium team at INRIA](https://gallium.inria.fr/) for my master thesis titled "To a typed language for modular programming" which consisted on unifying the core and modular language of OCaml.
 
 Over the years, I also gained experiences in web and mobile development, DevOps and project managemenent.
 
