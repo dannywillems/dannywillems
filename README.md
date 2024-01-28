@@ -2,7 +2,7 @@
 
 Hi! I am Danny Willems.
 I try to use my developer and mathematician skills to build softwares, libraries and companies to reach a better society according to my values.
-My values include, but are not restricted to, privacy, egalitarianism, (effective) altruism and more recently veganism.
+My values include, but are not restricted to, privacy, egalitarianism and more recently veganism.
 When possible, my work is released publicly in open-source and for free.
 
 I spend most of my time trying to provide a better Internet for everyone. With this mission in mind, I co-founded [LeakIX](https://leakix.net) with [Gregory Boddin](https://github.com/gboddin/) and we aim to be the Internet red team.
@@ -13,6 +13,8 @@ Previously I was a cryptography engineer at [Nomadic Labs](https://nomadic-labs.
 I was also the first engineer at [B2C2](https://b2c2.com).
 
 During my study, I did an internship in the [Gallium team at INRIA](https://gallium.inria.fr/) for my master thesis titled "To a typed language for modular programming" which consisted on unifying the core and modular language of OCaml.
+
+I graduated with a master degree in Mathematics from the University of Mons in 2017.
 
 Over the years, I also gained experiences in web and mobile development, DevOps and project managemenent.
 
