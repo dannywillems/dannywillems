@@ -9,7 +9,7 @@ I spend most of my time trying to provide a better Internet for everyone. With t
 
 I am also a cryptography engineer at [O(1) Labs](https://o1labs.org/), a company catalyzing a new generation of applications powered by zero-knowledge cryptography.
 
-Previously I was a cryptography engineer at [Nomadic Labs](https://nomadic-labs.com) in the [cryptography team](https://research-development.nomadic-labs.com/files/cryptography.html).
+Previously I was a cryptography engineer at [Nomadic Labs](https://nomadic-labs.com) in the [cryptography team](https://research-development.nomadic-labs.com/files/cryptography.html) working on privacy preserving technologies.
 I was also the first engineer at [B2C2](https://b2c2.com).
 
 During my study, I did an internship in the [Gallium team at INRIA](https://gallium.inria.fr/) for my master thesis titled "To a typed language for modular programming" which consisted on unifying the core and modular language of OCaml.
